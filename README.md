@@ -1,0 +1,1 @@
+# thinkpad-X1C-2nd-2015-hackintosh-EFI
